@@ -1,6 +1,6 @@
 - 👋 Hola soy Matias Lopez! @c4ozxd
 - 👀 Me interesan las distribuciones de Linux, Python and Bash
-- 🌱 Estoy estudiando actualmente administracion de sistemas Linux, además Bash y Python!
+- 🌱 Actualmente tengo hechos algunos cursos de Linux como LPI y LPIC1, actualmente cursando Python del profe @hcosta
 - 📫 Me podes encontrar en IG como @dopebuses
 - 💞️ Fuera del mundo informatico me encantan las motocicletas y los autobuses :)
 
